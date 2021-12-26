@@ -9,6 +9,7 @@ require('dotenv').config();
 
 ReactDOM.render(
   <React.StrictMode>
+    
     <Navhan/>
    
   </React.StrictMode>,
